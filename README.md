@@ -100,3 +100,16 @@ This project provided practical experience with:
 ---
 
 **Developed as a C programming project.**
+
+## Screenshots
+
+### Terminal Output
+![Terminal output - log analysis](screenshots/terminal_output_1.jpg)
+
+![Terminal output - keyword search](screenshots/terminal_output_2.jpg)
+
+### Generated Analysis Report
+![Generated analysis report](screenshots/sample_analysis_report.jpg)
+
+### Sample Log File
+![Sample log file](screenshots/sample_log.jpg)
